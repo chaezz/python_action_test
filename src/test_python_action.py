@@ -6,6 +6,6 @@ test_action()
 
 def test_action1():
     print("action_test")
-    assert (True)
+    assert (False)
 
 test_action1()
